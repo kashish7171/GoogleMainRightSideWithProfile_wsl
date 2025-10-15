@@ -1,0 +1,52 @@
+2025-10-15 18:16:18,205:modules.saveRanks:
+    ------ Starting evaluating competitors ranking of the product ---------
+    
+2025-10-15 18:16:20,771:modules.saveRanks:Finding ranking for product_id (11513) of vendor_id (10021).
+2025-10-15 18:16:36,152:modules.saveRanks:Found in ERP.
+2025-10-15 18:16:36,152:modules.saveRanks:Price, final price, shipping & discount are changed from ERP.
+2025-10-15 18:16:36,631:modules.saveRanks:Ranks are set null vendor_pricing_id (5424960)
+2025-10-15 18:16:37,110:modules.saveRanks:Pricing data updated for vendor_pricing_id (5424960) (10021 X 11513)
+2025-10-15 18:16:40,242:modules.saveRanks:Pricing data inserted for vendor_pricing_id (6242889) in history table.
+2025-10-15 18:16:40,723:modules.saveRanks:Finished making ranking of the product in 22.52 second(s)
+2025-10-15 18:17:38,119:modules.saveRanks:
+    ------ Starting evaluating competitors ranking of the product ---------
+    
+2025-10-15 18:17:40,608:modules.saveRanks:Finding ranking for product_id (11511) of vendor_id (10021).
+2025-10-15 18:17:57,766:modules.saveRanks:Found in ERP.
+2025-10-15 18:17:57,767:modules.saveRanks:Price, final price, shipping & discount are changed from ERP.
+2025-10-15 18:17:58,306:modules.saveRanks:Ranks are set null vendor_pricing_id (4355597)
+2025-10-15 18:17:58,846:modules.saveRanks:Pricing data updated for vendor_pricing_id (4355597) (10021 X 11511)
+2025-10-15 18:18:02,123:modules.saveRanks:Pricing data inserted for vendor_pricing_id (6242896) in history table.
+2025-10-15 18:18:02,641:modules.saveRanks:Finished making ranking of the product in 24.52 second(s)
+2025-10-15 18:25:10,383:modules.saveRanks:
+    ------ Starting evaluating competitors ranking of the product ---------
+    
+2025-10-15 18:25:12,762:modules.saveRanks:Finding ranking for product_id (11652) of vendor_id (10021).
+2025-10-15 18:25:29,089:modules.saveRanks:Found in ERP.
+2025-10-15 18:25:29,089:modules.saveRanks:Price, final price, shipping & discount are changed from ERP.
+2025-10-15 18:25:29,334:modules.saveRanks:Finished making ranking of the product in 18.95 second(s)
+2025-10-15 18:28:38,169:modules.saveRanks:
+    ------ Starting evaluating competitors ranking of the product ---------
+    
+2025-10-15 18:28:40,590:modules.saveRanks:Finding ranking for product_id (11700) of vendor_id (10021).
+2025-10-15 18:28:56,710:modules.saveRanks:Found in ERP.
+2025-10-15 18:28:56,711:modules.saveRanks:Price, final price, shipping & discount are changed from ERP.
+2025-10-15 18:28:56,966:modules.saveRanks:Finished making ranking of the product in 18.8 second(s)
+2025-10-15 18:38:11,641:modules.saveRanks:
+    ------ Starting evaluating competitors ranking of the product ---------
+    
+2025-10-15 18:38:14,133:modules.saveRanks:Finding ranking for product_id (11795) of vendor_id (10021).
+2025-10-15 18:38:30,074:modules.saveRanks:Found in ERP.
+2025-10-15 18:38:30,074:modules.saveRanks:Price, final price, shipping & discount are changed from ERP.
+2025-10-15 18:38:31,073:modules.saveRanks:Pricing data updated for vendor_pricing_id (140266) (10021 X 11795)
+2025-10-15 18:38:34,039:modules.saveRanks:MySQL ERROR savePricingHistory() >> 1054 (42S22): Unknown column 'vendorprice_instant_discount' in 'field list'
+2025-10-15 18:38:34,535:modules.saveRanks:Finished making ranking of the product in 22.89 second(s)
+2025-10-15 18:42:53,489:modules.saveRanks:
+    ------ Starting evaluating competitors ranking of the product ---------
+    
+2025-10-15 18:42:55,901:modules.saveRanks:Finding ranking for product_id (12025) of vendor_id (10021).
+2025-10-15 18:43:11,132:modules.saveRanks:Found in ERP.
+2025-10-15 18:43:11,132:modules.saveRanks:Price, final price, shipping & discount are changed from ERP.
+2025-10-15 18:43:12,087:modules.saveRanks:Pricing data updated for vendor_pricing_id (140881) (10021 X 12025)
+2025-10-15 18:43:15,050:modules.saveRanks:MySQL ERROR savePricingHistory() >> 1054 (42S22): Unknown column 'vendorprice_instant_discount' in 'field list'
+2025-10-15 18:43:15,543:modules.saveRanks:Finished making ranking of the product in 22.05 second(s)
